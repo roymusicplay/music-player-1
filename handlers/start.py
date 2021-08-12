@@ -15,7 +15,7 @@ async def start(_, message: Message):
             InlineKeyboardButton("💬 Group", url="https://t.me/DOSTI_GROUP_1234"),
             InlineKeyboardButton("Channel 🔊", url="https://t.me/MOVIE_CHANNEL_1234")
             ],[
-            InlineKeyboardButton("Commands 🛠", url="https://telegra.ph/Music-Bot-05-07")
+            InlineKeyboardButton("Commands 🛠", url="https://telegra.ph/Abhinas-08-12-4")
             ]]
         ),
         disable_web_page_preview=True
