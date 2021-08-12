@@ -1,5 +1,5 @@
 {
-  "name": "Music Bot",
+  "name": "music player",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "logo": "https://telegra.ph/file/eba02aefd3fef2f02623d.jpg",
   "keywords": ["music", "voicechat", "telegram"],
@@ -33,7 +33,7 @@
     },
     "DURATION_LIMIT": {
       "description": "Max audio duration limit for downloads (minutes).",
-      "value": "10"
+      "value": "20"
     }
   }
 }
